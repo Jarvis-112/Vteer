@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1676005606 source:c:\vteerproject\vteer\source\headerfiles\user.cpp
+	"User.h"
+
+1676005456 c:\vteerproject\vteer\source\headerfiles\user.h
+
+1676008997 source:c:\vteerproject\vteer\source\vteer\main.cpp
+	<iostream>
+	"HeaderFiles/User.h"
+
+1676008616 c:\vteerproject\vteer\source\vteer\headerfiles\user.h
+	<iostream>
+
+1676009065 source:c:\vteerproject\vteer\source\vteer\headerfiles\user.cpp
+	"User.h"
+	<iostream>
+	<fstream>
+
