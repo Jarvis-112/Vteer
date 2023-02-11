@@ -60,7 +60,7 @@ User::writeNewUser() {
      ofstream userfile ("userfile.txt", ios::out | ios::app);
       if (userfile.is_open())
       {
-        userfile << userid << ", " << username << ", " << password << ", " << email << "\n";
+        userfile << userid << "," << username << "," << password << "," << email << "\n";
         userfile.close();
       }
       else cout << "Error: Could not open userfile.txt";

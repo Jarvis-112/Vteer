@@ -33,6 +33,7 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="HeaderFiles/User.cpp" />
+		<Unit filename="HeaderFiles/User.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
